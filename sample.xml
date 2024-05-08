@@ -4,7 +4,7 @@
     <!-- Bluetooth permissions -->
     <uses-permission android:name="android.permission.WIFI"/>
     <uses-permission android:name="android.permission.WIFI_ADMIN"/>
-    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.GPS_CONNECT" />
     <uses-feature android:name="android.hardware.bluetooth" android:required="true"/>
     <application
         android:allowBackup="true"
